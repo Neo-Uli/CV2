@@ -1,0 +1,84 @@
+.encabezado{
+    height: 230px;
+    width: 1566px;
+    background-color: rgb(18, 44, 85);
+}
+h1{
+    font-size: 300%;
+    color: white;
+}
+h2{
+    font-size: 200%;
+    color: white;
+}
+h3{
+    font-size: 120%;
+    color: white;
+}
+h4{
+    font-size: 180%;
+}
+.edad{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 700px;
+}
+.colateral{
+    height: 899px;
+    width: 350px;
+    background-color: rgb(55, 109, 173);
+}
+
+.tel{
+    display: flex;
+    margin-top: 320px;
+    margin-left: 30px;
+}
+.tel-i{
+    margin-top: 15px;
+}
+.tel-n{
+    margin-left: 20px;
+}
+
+.mail{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 30px;
+}
+.mail-i{
+    margin-top: 15px;
+}
+.mail-n{
+    margin-left: 20px;
+}
+
+.linea{
+   margin-top: 189px;
+}
+
+.comp{
+    margin-top: 280px;
+    margin-left: 400px;
+}
+
+.idi{
+    margin-top: 280px;
+    margin-left: 300px;
+}
+
+.form{
+    margin-top: 0px;
+    margin-left: 400px;
+}
+
+.int{
+    margin-top: 0px;
+    margin-left: 200px;
+}
+.ref{
+    margin-top: 280px;
+    margin-left: 300px;
+}
+
+
